@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @obaixii.
+- 👋 Hi, I’m Obaid ur Rehman Awan | MERN Developer.
 - 👀 I’m interested in Graphic & Web Designing and Web Development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to collaborate on JavaScript Projects.
 - 📫 Contact me obaidawan567@gmail.com
